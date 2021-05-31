@@ -10,7 +10,7 @@ SMTPTO=sophiasystems@gmail.com
 CCTO=solomon4usoft@gmail.com
 SMTPSERVER=smtp.googlemail.com:587
 SMTPUSER=giftsonnetwork
-
+SMTPPASS=GodwithUs100%
 MESSAGEBODY=`echo "$txt"`
 SUBJECT="This is a Auto Email from SKYOPUS, FTP Server Backup Size"
 
